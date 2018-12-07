@@ -6,7 +6,7 @@
 
   <groupId>edu.umn.biomedicus</groupId>
   <artifactId>biomedicus-base</artifactId>
-  <version>1.1</version>
+  <version>1.2</version>
   <packaging>pom</packaging>
   <modules>
     <module>biomedicus-base-jdk8</module>
